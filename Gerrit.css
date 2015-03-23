@@ -1,0 +1,40 @@
+/* This is a CSS comment*/
+body {
+    padding: 20px 10px;
+    font-family: helvetica;
+    max-width: 2000px;
+    margin: 0 auto;
+    font-size: 1.0em;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+p {
+    margin: 10px 0;
+}
+.lesson {
+    background-color: gray;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    margin: 10px auto;
+    font-size: 1.2em;
+}
+.note {
+    background-color: lightgray;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: darkgray	;
+}
+.note-title {
+    margin: 8px;
+    text-align: center;
+    font-size: 1.2em;
+}
+.note-desc {
+    font-weight: lighter;
+    margin: 6px;
+    text-align: left;
+}
